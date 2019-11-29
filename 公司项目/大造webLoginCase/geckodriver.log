@@ -1,0 +1,823 @@
+1520443023665	geckodriver	INFO	Listening on 127.0.0.1:58791
+1520443025698	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520443026513	Marionette	INFO	Enabled via --marionette
+1520443027948	Marionette	INFO	Listening on port 58800
+1520443028882	Marionette	WARN	TLS certificate errors will be ignored for this session
+tream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:278 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4406 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 137: TypeError: prefs is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 72, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 72, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 72, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sUnable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520405362944	geckodriver	INFO	Listening on 127.0.0.1:52641
+1520405365039	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520405365958	Marionette	INFO	Enabled via --marionette
+1520405368374	Marionette	INFO	Listening on port 52648
+1520405368687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520405442401	geckodriver	INFO	Listening on 127.0.0.1:52724
+1520405444495	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520405445509	Marionette	INFO	Enabled via --marionette
+1520405448095	Marionette	INFO	Listening on port 52730
+1520405448137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520405696413	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 72, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+arionette	WARN	TLS certificate errors will be ignored for this session
+1520405916601	geckodriver	INFO	Listening on 127.0.0.1:53061
+1520405918763	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520405919924	Marionette	INFO	Enabled via --marionette
+1520405922873	Marionette	INFO	Listening on port 53068
+1520405922924	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520406017157	geckodriver	INFO	Listening on 127.0.0.1:53108
+1520406019221	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520406020349	Marionette	INFO	Enabled via --marionette
+1520406023153	Marionette	INFO	Listening on port 53115
+1520406023377	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520406363649	geckodriver	INFO	Listening on 127.0.0.1:53214
+1520406365713	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520406366977	Marionette	INFO	Enabled via --marionette
+1520406369666	Marionette	INFO	Listening on port 53220
+1520406369863	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520406538179	geckodriver	INFO	Listening on 127.0.0.1:53284
+1520406540250	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520406541404	Marionette	INFO	Enabled via --marionette
+1520406543959	Marionette	INFO	Listening on port 53291
+1520406544401	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520406563797	geckodriver	INFO	Listening on 127.0.0.1:53325
+1520406565859	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520406567069	Marionette	INFO	Enabled via --marionette
+1520406569946	Marionette	INFO	Listening on port 53331
+1520406570025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520406601595	geckodriver	INFO	Listening on 127.0.0.1:53397
+1520406603656	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520406604794	Marionette	INFO	Enabled via --marionette
+1520406607420	Marionette	INFO	Listening on port 53403
+1520406607811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520406833356	geckodriver	INFO	Listening on 127.0.0.1:53499
+1520406835418	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520406836608	Marionette	INFO	Enabled via --marionette
+1520406839402	Marionette	INFO	Listening on port 53505
+1520406839591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520406869980	geckodriver	INFO	Listening on 127.0.0.1:53570
+1520406872051	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520406873205	Marionette	INFO	Enabled via --marionette
+1520406876166	Marionette	INFO	Listening on port 53576
+1520406876201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520407096011	geckodriver	INFO	Listening on 127.0.0.1:53686
+1520407098066	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520407099238	Marionette	INFO	Enabled via --marionette
+1520407102025	Marionette	INFO	Listening on port 53692
+1520407102218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520407198391	geckodriver	INFO	Listening on 127.0.0.1:53771
+1520407200445	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520407201583	Marionette	INFO	Enabled via --marionette
+1520407204482	Marionette	INFO	Listening on port 53779
+1520407204601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520407478763	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+1520408221493	geckodriver	INFO	Listening on 127.0.0.1:54206
+1520408223559	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520408224766	Marionette	INFO	Enabled via --marionette
+1520408227850	Marionette	INFO	Listening on port 54212
+1520408228817	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520408367396	geckodriver	INFO	Listening on 127.0.0.1:54319
+1520408369465	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520408370714	Marionette	INFO	Enabled via --marionette
+1520408373940	Marionette	INFO	Listening on port 54327
+1520408374854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520408414647	geckodriver	INFO	Listening on 127.0.0.1:54399
+1520408416703	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520408417854	Marionette	INFO	Enabled via --marionette
+1520408420872	Marionette	INFO	Listening on port 54407
+1520408421963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520408935772	geckodriver	INFO	Listening on 127.0.0.1:54617
+1520408937861	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520408938798	Marionette	INFO	Enabled via --marionette
+1520408941366	Marionette	INFO	Listening on port 54624
+1520408941495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520409068628	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520409257189	geckodriver	INFO	Listening on 127.0.0.1:54770
+1520409259286	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520409260281	Marionette	INFO	Enabled via --marionette
+1520409262788	Marionette	INFO	Listening on port 54778
+1520409262929	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 72, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520409295998	geckodriver	INFO	Listening on 127.0.0.1:54840
+1520409298111	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520409299072	Marionette	INFO	Enabled via --marionette
+1520409301664	Marionette	INFO	Listening on port 54847
+1520409301758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520409469316	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	Enabled via --marionette
+1520410077556	Marionette	INFO	Listening on port 55209
+1520410078666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520410109565	geckodriver	INFO	Listening on 127.0.0.1:55270
+1520410111631	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520410112815	Marionette	INFO	Enabled via --marionette
+1520410115655	Marionette	INFO	Listening on port 55276
+1520410115800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520410164511	geckodriver	INFO	Listening on 127.0.0.1:55341
+1520410166581	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520410167735	Marionette	INFO	Enabled via --marionette
+1520410170788	Marionette	INFO	Listening on port 55348
+1520410171828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520410202943	geckodriver	INFO	Listening on 127.0.0.1:55409
+1520410205017	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520410206233	Marionette	INFO	Enabled via --marionette
+1520410209213	Marionette	INFO	Listening on port 55415
+1520410210272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520410366398	geckodriver	INFO	Listening on 127.0.0.1:55491
+1520410368462	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520410369745	Marionette	INFO	Enabled via --marionette
+1520410372628	Marionette	INFO	Listening on port 55498
+1520410373989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520410428930	geckodriver	INFO	Listening on 127.0.0.1:55577
+1520410431003	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520410432156	Marionette	INFO	Enabled via --marionette
+1520410435274	Marionette	INFO	Listening on port 55583
+1520410436256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520410463279	geckodriver	INFO	Listening on 127.0.0.1:55653
+1520410465351	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520410466537	Marionette	INFO	Enabled via --marionette
+1520410469303	Marionette	INFO	Listening on port 55659
+1520410469508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520410575973	geckodriver	INFO	Listening on 127.0.0.1:55742
+1520410578064	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520410579050	Marionette	INFO	Enabled via --marionette
+1520410581624	Marionette	INFO	Listening on port 55748
+1520410581753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520416376678	geckodriver	INFO	Listening on 127.0.0.1:59320
+1520416378751	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520416379990	Marionette	INFO	Enabled via --marionette
+1520416382948	Marionette	INFO	Listening on port 59327
+1520416384005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520417132650	geckodriver	INFO	Listening on 127.0.0.1:59420
+1520417134717	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520417135950	Marionette	INFO	Enabled via --marionette
+1520417138604	Marionette	INFO	Listening on port 59426
+1520417138884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520417532161	geckodriver	INFO	Listening on 127.0.0.1:59619
+1520417534229	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520417535694	Marionette	INFO	Enabled via --marionette
+1520417538514	Marionette	INFO	Listening on port 59625
+1520417539501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520417581408	geckodriver	INFO	Listening on 127.0.0.1:59684
+1520417583484	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520417584704	Marionette	INFO	Enabled via --marionette
+1520417587607	Marionette	INFO	Listening on port 59690
+1520417587642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520417677150	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1520417686097	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+or this session
+1520417934014	geckodriver	INFO	Listening on 127.0.0.1:59910
+1520417936145	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520417938059	Marionette	INFO	Enabled via --marionette
+1520417941642	Marionette	INFO	Listening on port 59916
+1520417942216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520418120205	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+1520473724632	geckodriver	INFO	Listening on 127.0.0.1:62039
+1520473726722	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520473728057	Marionette	INFO	Enabled via --marionette
+1520473732353	Marionette	INFO	Listening on port 62047
+1520473732684	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520473795046	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520473797655	geckodriver	INFO	Listening on 127.0.0.1:62129
+1520473799760	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520473800766	Marionette	INFO	Enabled via --marionette
+1520473804035	Marionette	INFO	Listening on port 62135
+1520473806167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520474046685	geckodriver	INFO	Listening on 127.0.0.1:62297
+1520474048778	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520474049834	Marionette	INFO	Enabled via --marionette
+1520474052655	Marionette	INFO	Listening on port 62306
+1520474053120	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520474382674	geckodriver	INFO	Listening on 127.0.0.1:62451
+1520474384781	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520474385860	Marionette	INFO	Enabled via --marionette
+1520474388578	Marionette	INFO	Listening on port 62457
+1520474388925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520475135312	geckodriver	INFO	Listening on 127.0.0.1:62811
+1520475137425	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520475138390	Marionette	INFO	Enabled via --marionette
+1520475141561	Marionette	INFO	Listening on port 62817
+1520475141579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520475214094	geckodriver	INFO	Listening on 127.0.0.1:62899
+1520475216178	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520475217062	Marionette	INFO	Enabled via --marionette
+1520475219796	Marionette	INFO	Listening on port 62905
+1520475219822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520475405023	geckodriver	INFO	Listening on 127.0.0.1:63006
+1520475407168	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520475408171	Marionette	INFO	Enabled via --marionette
+1520475410709	Marionette	INFO	Listening on port 63012
+1520475410813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520475471499	geckodriver	INFO	Listening on 127.0.0.1:63093
+1520475473596	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520475474563	Marionette	INFO	Enabled via --marionette
+1520475477083	Marionette	INFO	Listening on port 63099
+1520475477281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520475638039	geckodriver	INFO	Listening on 127.0.0.1:63216
+1520475640146	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520475641242	Marionette	INFO	Enabled via --marionette
+1520475643927	Marionette	INFO	Listening on port 63223
+1520475644313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520475683453	geckodriver	INFO	Listening on 127.0.0.1:63302
+1520475685555	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520475686535	Marionette	INFO	Enabled via --marionette
+1520475689161	Marionette	INFO	Listening on port 63309
+1520475689199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520475806144	geckodriver	INFO	Listening on 127.0.0.1:63407
+1520475808247	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520475809192	Marionette	INFO	Enabled via --marionette
+1520475811813	Marionette	INFO	Listening on port 63413
+1520475811910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520475907987	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rc/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 20036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520476585443	geckodriver	INFO	Listening on 127.0.0.1:63766
+1520476587560	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520476588552	Marionette	INFO	Enabled via --marionette
+1520476591173	Marionette	INFO	Listening on port 63772
+1520476591218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520476708800	geckodriver	INFO	Listening on 127.0.0.1:63858
+1520476710910	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520476712165	Marionette	INFO	Enabled via --marionette
+1520476715221	Marionette	INFO	Listening on port 63864
+1520476716378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520476755020	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+1520477129181	Marionette	INFO	Listening on port 64206
+1520477130570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520477247199	geckodriver	INFO	Listening on 127.0.0.1:64306
+1520477249297	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520477250421	Marionette	INFO	Enabled via --marionette
+1520477253539	Marionette	INFO	Listening on port 64312
+1520477254646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520477334476	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520477710528	geckodriver	INFO	Listening on 127.0.0.1:64595
+1520477712643	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520477713664	Marionette	INFO	Enabled via --marionette
+1520477716830	Marionette	INFO	Listening on port 64606
+1520477718194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520477788970	geckodriver	INFO	Listening on 127.0.0.1:64677
+1520477791079	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520477792063	Marionette	INFO	Enabled via --marionette
+1520477795130	Marionette	INFO	Listening on port 64683
+1520477795232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520477880578	geckodriver	INFO	Listening on 127.0.0.1:64753
+1520477882669	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520477883678	Marionette	INFO	Enabled via --marionette
+1520477886991	Marionette	INFO	Listening on port 64760
+1520477888236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520477923104	geckodriver	INFO	Listening on 127.0.0.1:64827
+1520477925194	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520477926281	Marionette	INFO	Enabled via --marionette
+1520477929551	Marionette	INFO	Listening on port 64833
+1520477931108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520477972260	geckodriver	INFO	Listening on 127.0.0.1:64898
+1520477974401	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520477975389	Marionette	INFO	Enabled via --marionette
+1520477978183	Marionette	INFO	Listening on port 64904
+1520477978544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520478003628	geckodriver	INFO	Listening on 127.0.0.1:64963
+1520478005774	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520478006808	Marionette	INFO	Enabled via --marionette
+1520478009871	Marionette	INFO	Listening on port 64969
+1520478009944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520478461507	geckodriver	INFO	Listening on 127.0.0.1:65110
+1520478463604	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520478464615	Marionette	INFO	Enabled via --marionette
+1520478467218	Marionette	INFO	Listening on port 65116
+1520478467257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520478549978	geckodriver	INFO	Listening on 127.0.0.1:65211
+1520478552074	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520478553100	Marionette	INFO	Enabled via --marionette
+1520478556166	Marionette	INFO	Listening on port 65218
+1520478556251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520478641831	geckodriver	INFO	Listening on 127.0.0.1:65312
+1520478643945	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520478644944	Marionette	INFO	Enabled via --marionette
+1520478647605	Marionette	INFO	Listening on port 65318
+1520478648637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520478684534	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1520479221222	geckodriver	INFO	Listening on 127.0.0.1:49227
+1520479223332	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520479224466	Marionette	INFO	Enabled via --marionette
+1520479227180	Marionette	INFO	Listening on port 49234
+1520479227483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520479264598	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1520479768092	geckodriver	INFO	Listening on 127.0.0.1:49497
+1520479770134	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520479771276	Marionette	INFO	Enabled via --marionette
+1520479773650	Marionette	INFO	Listening on port 49504
+1520479773799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520480198426	geckodriver	INFO	Listening on 127.0.0.1:49630
+1520480200517	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520480201562	Marionette	INFO	Enabled via --marionette
+1520480204330	Marionette	INFO	Listening on port 49636
+1520480204654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520480252845	geckodriver	INFO	Listening on 127.0.0.1:49745
+1520480254941	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520480255869	Marionette	INFO	Enabled via --marionette
+1520480258670	Marionette	INFO	Listening on port 49751
+1520480259084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520480294008	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1520497696519	geckodriver	INFO	Listening on 127.0.0.1:53043
+1520497698568	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520497699623	Marionette	INFO	Enabled via --marionette
+1520497702836	Marionette	INFO	Listening on port 53051
+1520497703818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520497734583	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1520505664191	geckodriver	INFO	Listening on 127.0.0.1:55518
+1520505666284	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520505667380	Marionette	INFO	Enabled via --marionette
+1520505669801	Marionette	INFO	Listening on port 55525
+1520505669961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520505705590	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator.WIN-QG4MR4EPLKN\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520505771727	geckodriver	INFO	Listening on 127.0.0.1:55628
+1520505773808	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520505774913	Marionette	INFO	Enabled via --marionette
+1520505777223	Marionette	INFO	Listening on port 55634
+1520505777443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520506514974	geckodriver	INFO	Listening on 127.0.0.1:55942
+1520506517066	geckodriver::marionette	INFO	Starting browser \\?\D:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520506517964	Marionette	INFO	Enabled via --marionette
+1520506520239	Marionette	INFO	Listening on port 55948
+1520506520704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520506554556	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1521197081345	geckodriver	INFO	geckodriver 0.20.0
+1521197081355	geckodriver	INFO	Listening on 127.0.0.1:50037
+1521197082363	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.ZFRSgnUpX9Bt"
+1521197083248	Marionette	INFO	Enabled via --marionette
+2018-03-16 18:44:44.700 plugin-container[27671:2940759] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521197085559	Marionette	INFO	Listening on port 50046
+2018-03-16 18:44:45.933 plugin-container[27672:2940827] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521198292543	geckodriver	INFO	geckodriver 0.20.0
+1521198292563	geckodriver	INFO	Listening on 127.0.0.1:50281
+1521198293555	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.dtNFUibg1ato"
+1521198294532	Marionette	INFO	Enabled via --marionette
+2018-03-16 19:04:56.085 plugin-container[27726:2949563] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521198296894	Marionette	INFO	Listening on port 50290
+2018-03-16 19:04:56.950 plugin-container[27727:2949622] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521198899353	geckodriver	INFO	geckodriver 0.20.0
+1521198899371	geckodriver	INFO	Listening on 127.0.0.1:50504
+1521198900359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.vYv8v33h9UWZ"
+1521198901161	Marionette	INFO	Enabled via --marionette
+2018-03-16 19:15:02.746 plugin-container[27767:2956377] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-16 19:15:03.656 plugin-container[27768:2956469] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521198903837	Marionette	INFO	Listening on port 50513
+1521199038370	geckodriver	INFO	geckodriver 0.20.0
+1521199038399	geckodriver	INFO	Listening on 127.0.0.1:50620
+1521199039398	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.ZsZjTzlZYdbd"
+1521199040237	Marionette	INFO	Enabled via --marionette
+2018-03-16 19:17:21.910 plugin-container[27776:2958750] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa233, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-16 19:17:22.583 plugin-container[27777:2958825] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521199042694	Marionette	INFO	Listening on port 50631
+1521199042811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521199068740	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1521199068751	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521199069443	geckodriver::marionette	ERROR	Failed to stop browser process
+2018-03-18 08:03:06.303 plugin-container[28516:3077719] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-18 08:03:09.277 plugin-container[28517:3077818] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521425811581	geckodriver	INFO	geckodriver 0.20.0
+1521425811599	geckodriver	INFO	Listening on 127.0.0.1:50118
+1521425812594	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.Va88gBMLLxu2"
+1521425813600	Marionette	INFO	Enabled via --marionette
+2018-03-19 10:16:54.926 plugin-container[2302:236522] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521425815539	Marionette	INFO	Listening on port 50129
+1521425815612	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-19 10:16:56.348 plugin-container[2303:236600] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521425839767	geckodriver::marionette	ERROR	Failed to stop browser process
+1521452201272	geckodriver	INFO	geckodriver 0.20.0
+1521452201281	geckodriver	INFO	Listening on 127.0.0.1:50918
+1521452202306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.tvVv55liE1jC"
+1521452202983	Marionette	INFO	Enabled via --marionette
+2018-03-19 17:36:44.127 plugin-container[2609:270063] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521452204664	Marionette	INFO	Listening on port 50929
+1521452204714	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-19 17:36:45.474 plugin-container[2610:270130] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521452297227	geckodriver	INFO	geckodriver 0.20.0
+1521452297236	geckodriver	INFO	Listening on 127.0.0.1:51043
+1521452298254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.8GAHxG33tFYJ"
+1521452299020	Marionette	INFO	Enabled via --marionette
+2018-03-19 17:38:20.365 plugin-container[2626:270807] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521452301207	Marionette	INFO	Listening on port 51054
+1521452301470	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-19 17:38:21.677 plugin-container[2627:270883] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521453404663	geckodriver	INFO	geckodriver 0.20.0
+1521453404672	geckodriver	INFO	Listening on 127.0.0.1:51203
+1521453405695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.DxfSny83cTqs"
+1521453406381	Marionette	INFO	Enabled via --marionette
+2018-03-19 17:56:47.569 plugin-container[2675:276406] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521453408143	Marionette	INFO	Listening on port 51214
+1521453408203	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-19 17:56:49.078 plugin-container[2676:276477] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521453485772	geckodriver	INFO	geckodriver 0.20.0
+1521453485781	geckodriver	INFO	Listening on 127.0.0.1:51327
+1521453486795	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.hto5OSCUWhx7"
+1521453487513	Marionette	INFO	Enabled via --marionette
+2018-03-19 17:58:08.771 plugin-container[2685:276982] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521453489352	Marionette	INFO	Listening on port 51338
+1521453489405	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-19 17:58:10.250 plugin-container[2686:277051] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521453561329	geckodriver	INFO	geckodriver 0.20.0
+1521453561337	geckodriver	INFO	Listening on 127.0.0.1:51454
+1521453562354	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.uyvMfCIbrH8o"
+1521453563067	Marionette	INFO	Enabled via --marionette
+2018-03-19 17:59:24.316 plugin-container[2694:277671] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1521453564957	Marionette	INFO	Listening on port 51465
+1521453565077	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-19 17:59:26.022 plugin-container[2695:277744] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522308043279	geckodriver	INFO	geckodriver 0.20.0
+1522308043296	geckodriver	INFO	Listening on 127.0.0.1:54281
+1522308044308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.HnyHrOOcKopi"
+1522308045024	Marionette	INFO	Enabled via --marionette
+2018-03-29 15:20:46.257 plugin-container[21144:3011712] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa233, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522308046880	Marionette	INFO	Listening on port 54292
+1522308046942	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-29 15:20:47.770 plugin-container[21145:3011781] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522308071869	geckodriver::marionette	ERROR	Failed to stop browser process
+1522308076957	geckodriver	INFO	geckodriver 0.20.0
+1522308076967	geckodriver	INFO	Listening on 127.0.0.1:54400
+1522308077985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.jdlCxYrIZ5I3"
+1522308078688	Marionette	INFO	Enabled via --marionette
+2018-03-29 15:21:19.956 plugin-container[21153:3012163] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522308080550	Marionette	INFO	Listening on port 54411
+1522308080654	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-29 15:21:21.534 plugin-container[21154:3012229] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522308104572	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522308107111	geckodriver::marionette	ERROR	Failed to stop browser process
+1522308151558	geckodriver	INFO	geckodriver 0.20.0
+1522308151566	geckodriver	INFO	Listening on 127.0.0.1:54529
+1522308152587	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.NS2QbI9NsHEH"
+1522308153288	Marionette	INFO	Enabled via --marionette
+2018-03-29 15:22:34.504 plugin-container[21163:3012940] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522308155064	Marionette	INFO	Listening on port 54540
+1522308155140	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-29 15:22:36.060 plugin-container[21164:3013058] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522308168177	geckodriver::marionette	ERROR	Failed to stop browser process
+1522308352659	geckodriver	INFO	geckodriver 0.20.0
+1522308352668	geckodriver	INFO	Listening on 127.0.0.1:54640
+1522308353693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.xBNyX1t9esW6"
+1522308354414	Marionette	INFO	Enabled via --marionette
+2018-03-29 15:25:55.706 plugin-container[21185:3014858] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522308356312	Marionette	INFO	Listening on port 54651
+1522308356434	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-29 15:25:57.282 plugin-container[21186:3014948] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522308369628	geckodriver::marionette	ERROR	Failed to stop browser process
+1522308615890	geckodriver	INFO	geckodriver 0.20.0
+1522308615899	geckodriver	INFO	Listening on 127.0.0.1:54754
+1522308616916	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.roy4SVhblVhZ"
+1522308617634	Marionette	INFO	Enabled via --marionette
+2018-03-29 15:30:19.021 plugin-container[21198:3017830] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa233, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-29 15:30:19.852 plugin-container[21199:3017902] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522308619908	Marionette	INFO	Listening on port 54765
+1522308620006	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522308632652	geckodriver::marionette	ERROR	Failed to stop browser process
+1522308769913	geckodriver	INFO	geckodriver 0.20.0
+1522308769921	geckodriver	INFO	Listening on 127.0.0.1:54894
+1522308770945	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.oYB7XCv0fMwy"
+1522308771654	Marionette	INFO	Enabled via --marionette
+2018-03-29 15:32:53.027 plugin-container[21220:3019912] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522308773598	Marionette	INFO	Listening on port 54905
+1522308773704	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-29 15:32:54.549 plugin-container[21221:3019988] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522308787382	geckodriver::marionette	ERROR	Failed to stop browser process
+1522735006061	geckodriver	INFO	geckodriver 0.20.0
+1522735006076	geckodriver	INFO	Listening on 127.0.0.1:62407
+1522735007087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.Jf2nHicxRKzL"
+1522735013004	Marionette	INFO	Enabled via --marionette
+2018-04-03 13:56:54.459 plugin-container[31333:5123058] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522735014942	Marionette	INFO	Listening on port 62418
+2018-04-03 13:56:55.751 plugin-container[31334:5123120] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522735035682	geckodriver	INFO	geckodriver 0.20.0
+1522735035698	geckodriver	INFO	Listening on 127.0.0.1:62425
+1522735036708	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/ys/q4x2_bxj63l832b3hm6cxrsc0000gn/T/rust_mozprofile.DcCHqUoukG0k"
+1522735037524	Marionette	INFO	Enabled via --marionette
+2018-04-03 13:57:18.910 plugin-container[31344:5123573] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa233, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1522735039620	Marionette	INFO	Listening on port 62436
+1522735039690	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-04-03 13:57:19.935 plugin-container[31345:5123640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-04-03 13:57:29.732 plugin-container[31347:5123896] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+2018-04-03 13:57:33.187 plugin-container[31348:5124001] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

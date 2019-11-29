@@ -1,0 +1,20 @@
+# 表示获取setting中的production模块
+# ENV_FOR_DYNACONF=production
+# 表示获取setting中的staging模块
+# ENV_FOR_DYNACONF=staging
+# 设置配置文件地址
+SETTINGS_MODULE_FOR_DYNACONF='config/settings.toml'
+
+
+搜索env文件的路径
+app.py:1 does from dynaconf import settings
+Only the .env file will be searched, other settings are lazy evaluated.
+.env will be searched starting on myprogram/src/.env
+if not found then myprogram/src/config/.env，不会找config目录，实践表明是先找当前目录，再找父目录，然后结束
+if not found then myprogram/.env actually found here so stops searching
+if not found then myprogram/config/.env
+It will load all values from .env to the environment variables and create the instance of settings
+
+官方示例是基于dynaconf2.0以上的，不然会报无法解决的错误
+https://github.com/rochacbruno/dynaconf/tree/master/example/envs
+https://github.com/rochacbruno/dynaconf/tree/master/example/multiple_folders

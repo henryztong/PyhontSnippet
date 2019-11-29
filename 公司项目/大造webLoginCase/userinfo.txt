@@ -1,0 +1,5 @@
+uname=darseek1;pwd=123456
+uname=darseek1;pwd=1234599
+uname=123;pwd=123456
+uname= ;pwd=123456
+uname=123;pwd=

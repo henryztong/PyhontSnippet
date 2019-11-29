@@ -1,0 +1,11 @@
+url=https://cloud.ravvar.cn/#!/login/sign
+user_xpath=/html/body/div[1]/div[2]/div/div/div/div/form/div[1]/a[3]
+account_xpath=/html/body/div[1]/div[2]/div/div/div/div/form/div[2]/input
+pwd_xpath=/html/body/div[1]/div[2]/div/div/div/div/form/div[3]/input
+login_xpath=login-btn
+errorid1=/html/body/div[1]/div[2]/div/div/div/div/form/div[2]/span
+errorid2=/html/body/div[1]/div[2]/div/div/div/div/form/div[3]/span
+errorid3=/html/body/popup/div/div[1]/div/p
+usermenu=/html/body/div[1]/div[3]/div[2]/nav
+logout=/html/body/div[1]/div[3]/ul/li[4]/a
+layer-btn=/html/body/popup/div/div[1]/div/a
