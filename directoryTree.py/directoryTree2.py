@@ -70,9 +70,10 @@ python生成文件目录树：方法二只使用os
             f.write(self.data)
 
 if __name__ == '__main__':  
-    url = '/Volumes/B/8手机壁纸'
+    url = '/Volumes/B/MyWorkspace/superManPro/AutoCheckPro'
     # url = '/Volumes/B/我的工作文档/superManPro'
-    dire = './diretree.txt'
+    # dire = './diretree.txt'
+    dire = '/Volumes/B/MyWorkspace/superManPro/AutoCheckPro/ReadMe.md'
     print('-' * 5,os.path.basename(url))
     MyTree = DiretoryTree()
     MyTree.set_filename(dire)
