@@ -1,0 +1,65 @@
+---
+default:
+  # 默认配置
+  # 和包和翼支付接口域名
+  API_url: http://api.test.fenqichaoren.com
+
+  # 自动审核接口域名
+  AutoCheckAPI_url: http://decision.test.api.fenqichaoren.com
+
+  # 和包接口请求必传参数
+  cmpay_key: "jT1kdbpWtdxQDDr9uC7/E5Hi4RaoFYg1" 
+  cmpay_clientId: '07032' # 测试环境
+
+case:
+  # 用例地址
+  # 自动审核参数
+  AutoCheckAPI_filePath: ../../../data/autoCheck_data/bestpaySubmodule.xls
+
+  # 翼支付授信参数
+  bestpayAPI_filePath: ../../../data/bestpay_data/授信接口_test.txt
+
+  # 和包授信参数
+  cmpayAPI_filePath: ../../../data/hebao_data/3.1.2.1 授信申请接口.txt
+  
+  # 基本准入用例
+  base: ../CaseBuilding/func_autocheck_base.yaml
+
+# development:
+#   # 本地调试
+
+# global:
+#   # 全局变量  
+
+testing:
+  API_url: http://api.test.fenqichaoren.com
+  bestpayAPI_filePath: ../../../data/bestpay_data/授信接口_test.txt
+  cmpayAPI_filePath: ../../../data/hebao_data/3.1.2.1 授信申请接口.txt
+  AutoCheckAPI_url: http://decision.test.api.fenqichaoren.com
+  AutoCheckAPI_filePath: ../../../data/autoCheck_data/bestpaySubmodule.xls
+
+  # 和包接口请求必传参数
+  cmpay_key: "jT1kdbpWtdxQDDr9uC7/E5Hi4RaoFYg1" 
+  cmpay_clientId: '07032' # 测试环境
+
+beta:
+  API_url: http://api.beta.fenqichaoren.com
+  bestpayAPI_filePath: ../../../data/bestpay_data/授信接口_test.txt
+  cmpayAPI_filePath: ../../../data/hebao_data/3.1.2.1 授信申请接口.txt
+  AutoCheckAPI_url: http://decision.beta.api.fenqichaoren.com
+  AutoCheckAPI_filePath: ../../../data/autoCheck_data/bestpaySubmodule.xls
+
+  cmpay_key: "VMa1dSCYG5oVuUx/XabB78I+UYBMJ6MJ" 
+  cmpay_clientId: '35848' # beta环境
+
+production:
+  API_url: http://api.fenqichaoren.com
+  bestpayAPI_filePath: ../../../data/bestpay_data/授信接口_test.txt
+  cmpayAPI_filePath: ../../../data/hebao_data/3.1.2.1 授信申请接口.txt
+  AutoCheckAPI_url: http://decision.api.fenqichaoren.com
+  AutoCheckAPI_filePath: ../../../data/autoCheck_data/bestpaySubmodule.xls
+
+  cmpay_key: "s4UHDeXN7MQ5g+eN4TcEsEs5/gF//ZCJ" 
+  cmpay_clientId: '90784' # 正式环境
+
+...

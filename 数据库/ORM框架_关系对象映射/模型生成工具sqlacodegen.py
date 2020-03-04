@@ -23,6 +23,9 @@ sqlacodegen sqlite://sp_man:Spman@123#admin.com@119.23.145.20/sp_grant > sp_gran
 sqlacodegen mysql+mysqlconnector://sp_man:Spman@123#admin.com@119.23.145.20/fqcr --tables user_extend_yi --outfile ./fqcr_user_extend_yi.py
 sqlacodegen mysql+mysqlconnector://sp_man:Spman@123#admin.com@119.23.145.20/fqcr --tables order_extend_yi --outfile ./fqcr_order_extend_yi.py
 
+sqlacodegen mysql+mysqlconnector://sp_man:Spman@123#admin.com@119.23.145.20/sp_grant --tables credits --outfile ./sp_grant_credits.py
+
+sqlacodegen mysql+mysqlconnector://sp_man:Spman@123#admin.com@119.23.145.20/fqcr --tables order_main_new --outfile ./fqcr_order_main_new.py
 
 """
 		

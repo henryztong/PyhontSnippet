@@ -1,7 +1,6 @@
 import json,xxtea,base64,json
 import urllib.parse
 import requests
-from hebao_import import input_data
 from hashlib import sha1
 
 class Encrypt(object):

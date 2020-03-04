@@ -16,3 +16,13 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 print(BASE_DIR)
 print(os.path.dirname(os.path.abspath(__file__)))
 print(os.path.abspath(__file__))
+
+print(sys.version)
+
+
+dirname, filename = os.path.split(os.path.abspath(sys.argv[0])) 
+print(os.path.realpath(sys.argv[0]))
+
+# python可执行文件地址
+print(sys.executable)
+

@@ -1,55 +1,14 @@
-    |----123\
-    |    |----55\
-    |    |    |----66\
-    |    |    |----UNADJUSTEDNONRAW_thumb_34.jpg
-    |    |----UNADJUSTEDNONRAW_thumb_33e.jpg
-    |    |----UNADJUSTEDNONRAW_thumb_34.jpg
-    |----222\
-    |    |----333\
-    |    |    |----UNADJUSTEDNONRAW_thumb_32c.jpg
-    |    |----444\
-    |    |    |----UNADJUSTEDNONRAW_thumb_32c.jpg
-    |    |----UNADJUSTEDNONRAW_thumb_16.jpg
-    |----UNADJUSTEDNONRAW_thumb_16.jpg
-    |----UNADJUSTEDNONRAW_thumb_18.jpg
-    |----UNADJUSTEDNONRAW_thumb_32c.jpg
-    |----UNADJUSTEDNONRAW_thumb_32d.jpg
-    |----UNADJUSTEDNONRAW_thumb_32f.jpg
-    |----UNADJUSTEDNONRAW_thumb_335.jpg
-    |----UNADJUSTEDNONRAW_thumb_336.jpg
-    |----UNADJUSTEDNONRAW_thumb_33e.jpg
-    |----UNADJUSTEDNONRAW_thumb_34.jpg
-    |----UNADJUSTEDNONRAW_thumb_341.jpg
-    |----UNADJUSTEDNONRAW_thumb_342.jpg
-    |----UNADJUSTEDNONRAW_thumb_355.jpg
-    |----UNADJUSTEDNONRAW_thumb_35e.jpg
-    |----UNADJUSTEDNONRAW_thumb_35f.jpg
-    |----UNADJUSTEDNONRAW_thumb_360.jpg
-    |----UNADJUSTEDNONRAW_thumb_365.jpg
-    |----UNADJUSTEDNONRAW_thumb_369.jpg
-    |----UNADJUSTEDNONRAW_thumb_36b.jpg
-    |----UNADJUSTEDNONRAW_thumb_36c.jpg
-    |----UNADJUSTEDNONRAW_thumb_36e.jpg
-    |----UNADJUSTEDNONRAW_thumb_36f.jpg
-    |----UNADJUSTEDNONRAW_thumb_370.jpg
-    |----UNADJUSTEDNONRAW_thumb_371.jpg
-    |----UNADJUSTEDNONRAW_thumb_372.jpg
-    |----UNADJUSTEDNONRAW_thumb_374.jpg
-    |----UNADJUSTEDNONRAW_thumb_376.jpg
-    |----UNADJUSTEDNONRAW_thumb_37a.jpg
-    |----UNADJUSTEDNONRAW_thumb_37b.jpg
-    |----UNADJUSTEDNONRAW_thumb_37c.jpg
-    |----UNADJUSTEDNONRAW_thumb_381.jpg
-    |----UNADJUSTEDNONRAW_thumb_382.jpg
-    |----UNADJUSTEDNONRAW_thumb_383.jpg
-    |----UNADJUSTEDNONRAW_thumb_384.jpg
-    |----UNADJUSTEDNONRAW_thumb_388.jpg
-    |----UNADJUSTEDNONRAW_thumb_38b.jpg
-    |----UNADJUSTEDNONRAW_thumb_38d.jpg
-    |----UNADJUSTEDNONRAW_thumb_38e.jpg
-    |----UNADJUSTEDNONRAW_thumb_38f.jpg
-    |----UNADJUSTEDNONRAW_thumb_390.jpg
-    |----UNADJUSTEDNONRAW_thumb_391.jpg
-    |----UNADJUSTEDNONRAW_thumb_394.jpg
-    |----UNADJUSTEDNONRAW_thumb_397.jpg
-    |----UNADJUSTEDNONRAW_thumb_398.jpg
+----test_AutoCheck2\------------文件夹---------------\
+    |----ApiAutoCheck\------------文件夹---------------\
+    |----ApiBestpay\------------文件夹---------------\
+    |----ApiCmpay\------------文件夹---------------\
+    |----CaseBuilding\------------文件夹---------------\
+    |----CaseRunning\------------文件夹---------------\
+    |----Database\------------文件夹---------------\
+    |----func_public_config.py
+    |----func_public_IOdata.py
+    |----func_public_reports.py
+    |----log\------------文件夹---------------\
+    |----ReadMe.md
+    |----report\------------文件夹---------------\
+    |----requirements.txt

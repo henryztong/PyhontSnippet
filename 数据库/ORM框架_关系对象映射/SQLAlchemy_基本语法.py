@@ -1,6 +1,10 @@
 """
 SQLAlchemy_基本语法
-官网：https://docs.sqlalchemy.org/en/latest/orm/tutorial.html#declare-a-mapping
+官网,事务、查询、修改都有：https://docs.sqlalchemy.org/en/latest/orm/tutorial.html#declare-a-mapping
+查询基础语法：https://docs.sqlalchemy.org/en/13/orm/tutorial.html#querying
+多表查询：https://docs.sqlalchemy.org/en/13/orm/tutorial.html#querying-with-joins
+增改：https://docs.sqlalchemy.org/en/13/orm/tutorial.html#adding-and-updating-objects
+
 他人总结清单：https://www.cnblogs.com/pycode/p/mysql-orm.html
 多表查询：
 https://blog.csdn.net/guoqianqian5812/article/details/75298972

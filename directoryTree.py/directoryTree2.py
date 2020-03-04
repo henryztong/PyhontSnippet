@@ -53,7 +53,7 @@ python生成文件目录树：方法二只使用os
                 # 打印目录下的所有文件夹和文件，目录级别+1  
                 self.diretree((n + 1),i,path + '/' + dl)  
         for fl in fileList:  # 遍历当前路径下的所有文件
-            if fl[0] == '.':  # 过滤隐藏文件
+            if fl[0] == '.' or fl[-1]!='d':  # 过滤隐藏文件
                 pass
             else:
                 self.data += '    |'* n +'-' * 4 + fl + '\n'
@@ -70,10 +70,11 @@ python生成文件目录树：方法二只使用os
             f.write(self.data)
 
 if __name__ == '__main__':  
-    url = '/Volumes/B/MyWorkspace/superManPro/AutoCheckPro'
+    # url = '/Volumes/B/MyWorkspace/superManPro/test_AutoCheck2'
+    url = '/Volumes/B/MyWorkspace/Seafile/测试小组资料/测试用例'
     # url = '/Volumes/B/我的工作文档/superManPro'
-    # dire = './diretree.txt'
-    dire = '/Volumes/B/MyWorkspace/superManPro/AutoCheckPro/ReadMe.md'
+    dire = './diretree.txt'
+    # dire = '/Volumes/B/MyWorkspace/superManPro/test_AutoCheck2/ProStructure.md'
     print('-' * 5,os.path.basename(url))
     MyTree = DiretoryTree()
     MyTree.set_filename(dire)

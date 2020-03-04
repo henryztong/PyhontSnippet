@@ -107,13 +107,15 @@ if __name__ == '__main__':
 	#生成指定地址的目录树,将字符串转换为pathlib对象
 	# url = '/Volumes/B/我的工作文档/superManPro'
 	# url = '/Volumes/B/我的工作文档/superManPro/test_wap/wap_entry'
-	url = '/Volumes/B/MyWorkspace/superManPro/test_hebaopay/aliyun_hebaopay'
-	# dire = './diretree.txt'
-	dire = '/Users/henry/Desktop/文档目录结构.md'
+	# url = '/Volumes/B/MyWorkspace/superManPro/test_hebaopay/aliyun_hebaopay'
+	url = '/Volumes/B/MyWorkspace/superManPro/test_AutoCheck2'
+	dire = './diretree.txt'
+	# dire = '/Users/henry/Desktop/文档目录结构.md'
+	# dire = '/Volumes/B/MyWorkspace/superManPro/test_AutoCheck2/ProStructure.md'
 
 	MyTree = DiretoryTree()
 	# 注意按照顺序执行方法，因为初始化时设有默认值
 	MyTree.set_path(url)
 	MyTree.set_filename(dire)
-	print(MyTree.diretree(i=2))
+	print(MyTree.diretree(i=1))
 	MyTree.save_file()

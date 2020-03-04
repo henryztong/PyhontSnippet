@@ -24,7 +24,7 @@ import math # 数学库
 #     httpserver
 #     io
 #     server
-print(dir(math))
+# print(dir(math))
 
 
 
@@ -40,11 +40,18 @@ print(dir(math))
 
 
 # 导入内置math模块
-import math
-content = dir(math)
-print(content)
+# import math
+# content = dir(math)
+# print(content)
 
-
-
-
+from sqlalchemy.orm import sessionmaker
+# print(dir(sessionmaker))
+# print(sessionmaker)
+# print(help(sessionmaker().configure()))
+import sqlalchemy
+# print(sqlalchemy.__version__) #1.3.1
+# 打印模块路径方式一
+print(sqlalchemy)
+# 方式二
+print(sqlalchemy.__file__)
 
